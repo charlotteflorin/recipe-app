@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.env
+
+
+//https://api.edamam.com/api/recipes/v2?type=public&q=chicken&app_id=c55f38f8&app_key=063db38d89b7ea9f0c938086de0f5c44
+
+APPLICATION_ID="c55f38f8"
+APPLICATION_KEY="063db38d89b7ea9f0c938086de0f5c44"
